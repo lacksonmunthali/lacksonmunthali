@@ -2,7 +2,7 @@
 <hr>
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=python,dart,go,rust,django,fastapi,flutter,git,graphql,regex" />
+	<img src="https://skillicons.dev/icons?i=python,dart,go,rust,django,fastapi,flutter,git,graphql,zig,regex" />
 </p>
 
 <h3 align="center">Stats</h3>
