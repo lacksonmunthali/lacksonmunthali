@@ -10,6 +10,10 @@
 
 
 <h3>How to reach me</h3>
-<p><a href="https://twitter.com/LacksonMunthali">Twitter</a></p>
-<p><a href="https://www.linkedin.com/in/lackson-munthali">LinkedIn</a></p>
+<p><a href="https://twitter.com/LacksonMunthali" target="_blank">Twitter</a></p>
+<p><a href="https://www.linkedin.com/in/lackson-munthali" target="_blank">LinkedIn</a></p>
 <p><a href="https://lacksonmunthali.com/">www.lacksonmunthali.com</a></p>
+
+<h3>Blogging</h3>
+<p><a href="https://sidelessons.com">Sidelessons</a>: here I post about programming. 🥳</p>
+<p><a href="https://gamersarchives.com">Gamers Archives</a>: Here I post about gaming. 🤩</p>
