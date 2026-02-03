@@ -12,5 +12,5 @@
 <p><a href="https://lacksonmunthali.com/">www.lacksonmunthali.com</a></p>
 
 <h3>Side Projects</h3>
-<p><a href="https://play.google.com/store/apps/details?id=com.lacksonmunthali.dailyknow">DailyKnow: Facts & Trivia - Playstore</a>:This is a fact/trivia mobile application. 🥳</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.lacksonmunthali.dailyknow">DailyKnow: Facts & Trivia - Playstore</a>: This is a fact/trivia mobile application. 🥳</p>
 <p><a href="https://brawltactics.com">Brawl Tactics</a>: Here I manage a Brawl Stars Stats Website. 🤩</p>
