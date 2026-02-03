@@ -15,5 +15,5 @@
 <p><a href="https://lacksonmunthali.com/">www.lacksonmunthali.com</a></p>
 
 <h3>Blogging</h3>
-<p><a href="https://sidelessons.com">Sidelessons</a>: here I post about programming. 🥳</p>
-<p><a href="https://gamersarchives.com">Gamers Archives</a>: Here I post about gaming. 🤩</p>
+<p><a href="https://sidelessons.com">DailyKnow: Facts & Trivia</a>:This is a fact/trivia mobile application. 🥳</p>
+<p><a href="https://brawltactics.com">Brawl Tactics</a>: Here I manage a Brawl Stars Stats Website. 🤩</p>
